@@ -1,3 +1,14 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 *{
 margin:0;
 padding:0;
@@ -100,7 +111,7 @@ linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),
 url("../assets/background-tech.jpg");
 background-size:cover;
 background-position:center;
-padding:40px 0;
+padding:50px 0;
 color:white;
 }
 
