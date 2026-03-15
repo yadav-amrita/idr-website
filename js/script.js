@@ -1,0 +1,1 @@
+console.log("IDR Website Loaded");
